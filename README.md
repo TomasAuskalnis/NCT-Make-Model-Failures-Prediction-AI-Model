@@ -42,5 +42,3 @@ If these are not already installed, install them before continuing.
 ## About This Project
 This AI model is designed to predict failures for NCT make and model vehicles by analyzing relevant patterns and data.
 
----
-This project is intended to demonstrate practical AI and data science work in a clear, accessible format for review by employers and collaborators.
